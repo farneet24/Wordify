@@ -1,0 +1,191 @@
+
+
+iframe
+{
+    display: none;
+}
+
+@media only screen and (max-width: 990px) {
+  .space {
+    margin-right: 20px; /* or any other value you prefer */
+  }
+}
+
+textarea {
+    max-width: 100%;
+}
+
+.inline-list li {
+    display: inline-block;
+    list-style-type: none;
+    padding-right: 20px;
+}
+
+body {
+    font-family: "Roboto", sans-serif;
+    background-color: #fff;
+    color: #8c8c8c; 
+}
+
+.raise:hover,
+.raise:focus {
+  box-shadow: 0 0.5em 0.5em -0.4em var(--hover);
+  transform: translateY(-0.25em);
+}
+
+.raise {
+    border: 2px solid #ffa260;
+    color: #ffa260;
+  }
+  
+  .raise:hover {
+    border-color: #e5ff60;
+    color: #e5ff60;
+  }
+
+
+  #subject::placeholder {
+    color: #567189;
+    font-size: 16px;
+  }
+  
+  #message::placeholder {
+    color: #567189;
+    font-size: 16px;
+  }
+
+  #email::placeholder {
+    color: #567189;
+    font-size: 16px;
+  }
+
+  #name::placeholder {
+    color: #567189;
+    font-size: 16px;
+  }
+  
+  
+  .pulse:hover,
+.pulse:focus {
+  animation: pulse 1s;
+  box-shadow: 0 0 0 2em transparent;
+}
+
+@keyframes pulse {
+  0% {
+    box-shadow: 0 0 0 0 var(--hover);
+  }
+}
+
+
+.pulse {
+    --color: #ef6eae;
+    --hover: #3A98B9;
+  }
+  
+
+  @keyframes fadeInUp {
+    from {
+      opacity: 0;
+      transform: translateY(50%);
+    }
+    to {
+      opacity: 1;
+      transform: translateY(0);
+    }
+  }
+
+
+  /* .fade-in-up {
+    opacity: 0;
+    transform: translateY(20px);
+    animation: fadeInUpp 1s forwards;
+  }
+  
+  @keyframes fadeInUpp {
+    0% {
+      opacity: 0;
+      transform: translateY(20px);
+    }
+    100% {
+      opacity: 1;
+      transform: translateY(0);
+    }
+  } */
+
+  .animate-slide-in {
+    opacity: 0;
+    transform: translateY(50px);
+    transition: all 0.5s ease-out;
+  }
+  
+  .animate-slide-in.animate {
+    opacity: 1;
+    transform: translateY(0px);
+  }
+
+  .img-fluid {
+    width: 100%;
+    height: 475px;
+  }
+
+  .fade-in {
+    animation: fadein 2s;
+  }
+  
+  @keyframes fadein {
+    from { opacity: 0; }
+    to   { opacity: 1; }
+  }
+
+  .content {
+    width: 100%;
+    padding-right: 0px;
+    padding-left: 0px;
+    margin-right: auto;
+    margin-left: auto;
+  }
+
+
+  .explanation-message {
+    position: absolute;
+    top: -60px;
+    left: 50%;
+    transform: translateX(-50%);
+    background-color: white;
+    padding: 10px 15px;
+    border-radius: 10px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.5);
+    font-size: 0.9rem;
+    display: flex;
+    align-items: center;
+  }
+  
+  .explanation-message .why {
+    font-weight: bold;
+    margin-right: 5px;
+  }
+  
+  .explanation-message .message {
+    max-width: 250px;
+    word-wrap: break-word;
+  }
+
+  
+
+ @media only screen and (max-width: 540px) {
+
+    nav{
+      margin: "0px 0px 50px 0px";
+    }
+
+    body{
+      padding-top: 37px;
+    }
+    
+    .alert{
+      z-index: 50;
+      margin-bottom: 50px;
+    }
+  }
+ 
