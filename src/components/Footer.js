@@ -72,7 +72,7 @@ function Footer(props) {
                 </li>
                 <li class="mb-2">
                   <a
-                    href="https://farneet24-sms-spam-app-j9qp5s.streamlit.app/"
+                    href="https://farneet24-sms-spam-app-r53bi4.streamlit.app/"
                     class="text-white"
                     style={{ textDecoration: "none" }}
                     target="_blank"
@@ -83,7 +83,7 @@ function Footer(props) {
                 </li>
                 <li class="mb-2 text-white">
                   <a
-                    href="https://farneet24-chatanalyzer-app-klqegg.streamlit.app/"
+                    href="https://farneet24-chatanalyzer-app-pi7gil.streamlit.app/"
                     class="text-white"
                     style={{ textDecoration: "none" }}
                     target="_blank"
