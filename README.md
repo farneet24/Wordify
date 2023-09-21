@@ -25,4 +25,8 @@ Wordify is a user-friendly text analysis tool designed to assist with various te
 ## Live Demo
 Experience the project live [here](https://wordify-kappa.vercel.app).
 
+## Contact
+For any queries or discussions, feel free to contact the maintainer.
+
+[Farneet Singh](farneetsingh_co21a3_72@dtu.ac.in)
 
