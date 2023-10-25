@@ -42,7 +42,7 @@ function Footer(props) {
                   </a>
                 </li>
                 <li>
-                  <a class="text-white px-2" href="https://www.instagram.com/farneet.singh/" target="_blank">
+                  <a class="text-white px-2" href="https://www.instagram.com/farneetsingh7/" target="_blank">
                     <i class="fab fa-instagram"></i>
                   </a>
                 </li>
