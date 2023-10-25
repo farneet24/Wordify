@@ -26,7 +26,5 @@ Wordify is a user-friendly text analysis tool designed to assist with various te
 Experience the project live [here](https://wordify-kappa.vercel.app).
 
 ## Contact
-For any queries or discussions, feel free to contact the maintainer.
-
-[Farneet Singh](farneetsingh_co21a3_72@dtu.ac.in)
+For inquiries, suggestions, or contributions, you can mail me: [Farneet Singh](mailto:farneetsingh_co21a3_72@dtu.ac.in) or connect with me through [LinkedIn](https://www.linkedin.com/in/farneet-singh-6b155b208/). Thank you :)
 
