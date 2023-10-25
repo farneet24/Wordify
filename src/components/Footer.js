@@ -62,12 +62,12 @@ function Footer(props) {
               <ul class="list-unstyled">
                 <li class="mb-2">
                   <a
-                    href="#!"
+                    href="https://thread-mind.vercel.app/"
                     class="text-white"
                     style={{ textDecoration: "none" }}
                     target="_blank"
                   >
-                    <i class="fa-regular fa-file-lines pe-3"></i>Orion
+                    <i class="fa-regular fa-file-lines pe-3"></i>ThreadMind
                   </a>
                 </li>
                 <li class="mb-2">
@@ -112,7 +112,7 @@ function Footer(props) {
                 </li>
                 <li class="mb-2">
                   <a
-                    href="#!"
+                    href="https://news-daily-swart.vercel.app/"
                     class="text-white"
                     style={{ textDecoration: "none" }}
                     target="_blank"
