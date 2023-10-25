@@ -104,7 +104,6 @@ function Footer(props) {
                     href="#!"
                     class="text-white"
                     style={{ textDecoration: "none" }}
-                    target="_blank"
                   >
                     <i class="fa-sharp fa-regular fa-clipboard pe-3"></i>
                     Scribble-Notes Keeper
