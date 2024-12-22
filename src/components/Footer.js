@@ -136,12 +136,6 @@ function Footer(props) {
                     <i class="fas fa-map-marker-alt pe-3"></i>New Delhi, Delhi, India
                   </p>
                 </li>
-                <li>
-                  <p>
-                    <i class="fas fa-envelope pe-3 mb-0"></i>
-                    abhi.physicist@gmail.com
-                  </p>
-                </li>
               </ul>
             </div>
             {/* <!--Grid column--> */}
