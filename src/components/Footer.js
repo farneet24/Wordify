@@ -139,7 +139,7 @@ function Footer(props) {
                 <li>
                   <p>
                     <i class="fas fa-envelope pe-3 mb-0"></i>
-                    farneetsingh.abhi@gmail.com
+                    abhi.physicist@gmail.com
                   </p>
                 </li>
               </ul>
